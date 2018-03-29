@@ -5,8 +5,8 @@
 # "Trainable ISTA for Sparse Signal Recovery", arXiv:1801.01978.
 # (Computer experiments in the paper was performed with another TensorFlow implementation)
 #
-# GPU is required for execution of this program. If you do not have GPU, buy it or
-# remove .cuda() from the following code.
+# GPU is required for execution of this program. If you do not have GPU,
+# just remove .cuda() from the following code.
 #
 
 import torch
